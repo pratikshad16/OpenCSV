@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Pratiksha Dhage",
+    "email": "dhagepratiksha16@gmail.com",
+    "phoneNo": "+91-8765897654",
+    "country": "India"
+  },
+  {
+    "name": "Sarthak Mane",
+    "email": " sarthak.mane@gmail.com",
+    "phoneNo": "+91-3456789045"
+  },
+  {
+    "name": "Barak Obama",
+    "email": "barak.obama@example.com",
+    "phoneNo": "+1-1111111111",
+    "country": "United States"
+  },
+  {
+    "name": "Donald Trump",
+    "email": "donald.trump@example.com",
+    "phoneNo": "+1-2222222222",
+    "country": "United States"
+  }
+]
